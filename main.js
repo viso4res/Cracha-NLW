@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
   Github: 'viso4res',
-  Youtube: 'AlexandreFlausinodaMotta',
+  Youtube: 'UCgFR83l1Iy9COEDjBJ_A3dA',
   Facebook: 'Vinicius Soares',
   Instagram: 'vi_soaress_',
-  Twitter: 'Luangameplay666'
+  Twitter: 'vi_soaress_'
 }
 
 function ChangeSocialMediaLinks() {
