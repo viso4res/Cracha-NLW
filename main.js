@@ -1,7 +1,7 @@
 const LinksSocialMedia = {
   Github: 'viso4res',
   Youtube: 'channel/UCgFR83l1Iy9COEDjBJ_A3dA',
-  Facebook: 'Vinicius Soares',
+  Facebook: 'vinicius.soares.9693',
   Instagram: 'vi_soaress_',
   Twitter: 'vi_soaress_'
 }
